@@ -4,4 +4,4 @@
 
 [Requirements Identification Handout](https://github.com/isatou/csc322/blob/master/Requirements%20Identification%20Handout.pdf)
 
-[Sample Project (Spring 2016)](https://github.com/isatou/csc322/blob/master/CSc322SampleProjectTopics.pdf)
+[Sample Projects](https://github.com/isatou/csc322/blob/master/CSc322SampleProjectTopics.pdf)
