@@ -5,7 +5,7 @@
 
 [Requirements Identification Handout](https://github.com/isatou/csc322/blob/master/Requirements%20Identification%20Handout.pdf)
 
-[Sample Projects](https://github.com/isatou/csc322/blob/master/CSc322SampleProjectTopics.pdf)
+[Sample Projects from Previous Semesters](https://github.com/isatou/csc322/blob/master/CSc322SampleProjectTopics.pdf)
 
 ## Tools
 [ArgoUML](http://argouml.tigris.org/)
