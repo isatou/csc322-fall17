@@ -1,4 +1,4 @@
-# Software Enginerring Lab (CSC 332)
+# Software Engineering Lab (CSC 332)
 
 [Requirements Identification Slides](https://github.com/isatou/csc322/blob/master/Requirements%20Identification%20Slides.pdf)
 
