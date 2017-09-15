@@ -9,11 +9,23 @@
 
 ## Tools
 [ArgoUML](http://argouml.tigris.org/)
+
 [draw.io](https://www.draw.io)
 
 ## Use Case Examples
 [https://creately.com/diagram-community/examples/t/use-case](https://creately.com/diagram-community/examples/t/use-case)
 
 [http://www.uml-diagrams.org/use-case-diagrams-examples.html](http://www.uml-diagrams.org/use-case-diagrams-examples.html)
+
+## Use Case Solutions
+### Task 1
+[ATM](https://github.com/isatou/csc322/blob/master/ATM%20Use%20Case.png)
+
+### Task 2
+[Use Case Relationships](https://github.com/isatou/csc322/blob/master/Use%20Case%20Relationships.pdf)
+
+### Task 3
+[Mail Order System](https://github.com/isatou/csc322/blob/master/Mail%20Order%20Use%20Case.pdf)
+
 
 
