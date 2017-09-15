@@ -13,6 +13,12 @@
 
 [Use Case Modeling Handout](https://github.com/isatou/csc322/blob/master/Use%20Case%20Diagrams%20Handout.pdf)
 
+## Course Page (Prof. Wei)
+[http://www-cs.engr.ccny.cuny.edu/~csjie/322.html](http://www-cs.engr.ccny.cuny.edu/~csjie/322.html)
+
+[Project Requirement (Draft)](http://www-cs.engr.ccny.cuny.edu/~csjie/322/f17/project_spec_draft.docx)
+
+
 ## Tools
 [ArgoUML](http://argouml.tigris.org/)
 
