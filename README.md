@@ -1,4 +1,6 @@
 # Software Engineering Lab (CSC 322)
+# Teaching Assistant: Isatou Sanneh
+# Email: isanneh00@citymail.cuny.edu
 
 ## Lectures/Handouts
 [Requirements Identification Slides](https://github.com/isatou/csc322/blob/master/Requirements%20Identification%20Slides.pdf)
