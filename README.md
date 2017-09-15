@@ -9,3 +9,11 @@
 
 ## Tools
 [ArgoUML](http://argouml.tigris.org/)
+[draw.io](https://www.draw.io)
+
+## Use Case Examples
+[https://creately.com/diagram-community/examples/t/use-case](https://creately.com/diagram-community/examples/t/use-case)
+
+[http://www.uml-diagrams.org/use-case-diagrams-examples.html](http://www.uml-diagrams.org/use-case-diagrams-examples.html)
+
+
