@@ -9,6 +9,10 @@
 
 [Sample Projects from Previous Semesters](https://github.com/isatou/csc322/blob/master/CSc322SampleProjectTopics.pdf)
 
+[Use Case Modeling Slides](https://github.com/isatou/csc322/blob/master/Use%20Case%20Diagrams%20Slides.pdf)
+
+[Use Case Modeling Handout](https://github.com/isatou/csc322/blob/master/Use%20Case%20Diagrams%20Handout.pdf)
+
 ## Tools
 [ArgoUML](http://argouml.tigris.org/)
 
