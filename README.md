@@ -13,7 +13,7 @@
 
 [Use Case Modeling Handout](https://github.com/isatou/csc322/blob/master/Use%20Case%20Diagrams%20Handout.pdf)
 
-[Class Diagram](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20UML%20Class%20Diagram.pdf)
+[Class Diagram Handout](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20UML%20Class%20Diagram.pdf)
 
 ## Course Page (Prof. Wei)
 [http://www-cs.engr.ccny.cuny.edu/~csjie/322.html](http://www-cs.engr.ccny.cuny.edu/~csjie/322.html)
