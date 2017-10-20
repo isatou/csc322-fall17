@@ -15,6 +15,8 @@
 
 [Class Diagram Handout](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20UML%20Class%20Diagram.pdf)
 
+[Sequence Diagram Handout](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20Sequence%20Diagram.pdf)
+
 ## Course Page (Prof. Wei)
 [http://www-cs.engr.ccny.cuny.edu/~csjie/322.html](http://www-cs.engr.ccny.cuny.edu/~csjie/322.html)
 
