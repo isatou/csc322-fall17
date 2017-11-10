@@ -17,6 +17,10 @@
 
 [Sequence Diagram Handout](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20Sequence%20Diagram.pdf)
 
+[Entity Relationship Diagram](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20Entity%20Relationship%20Diagram.pdf)
+
+[Collaboration Diagram](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20Collaboration%20Diagram.pdf)
+
 ## Course Page (Prof. Wei)
 [http://www-cs.engr.ccny.cuny.edu/~csjie/322.html](http://www-cs.engr.ccny.cuny.edu/~csjie/322.html)
 
