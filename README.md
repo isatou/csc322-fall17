@@ -47,6 +47,9 @@
 
 [http://www.uml-diagrams.org/use-case-diagrams-examples.html](http://www.uml-diagrams.org/use-case-diagrams-examples.html)
 
+## Demo
+[Checklist](https://github.com/isatou/csc322/blob/master/CSC%20322%20Demo%20Checklist.pdf)
+
 
 
 
